@@ -1,0 +1,156 @@
+{
+  "dates": [
+    {
+      "begin_story": "Welcome to the first day! We're not restricting attendance today, but make sure that no one suspicious comes in. - Martha",
+      "rules": [
+        "All entrants must have consistent documentation.",
+        "All vaccination statuses are allowed."
+      ],
+      "tags": {
+        "age": "all",
+        "role": "all",
+        "vax": "all",
+        "gender": "all"
+      },
+      "end_story": "Let's see how you did.. - Martha"
+    },
+    {
+      "begin_story": "I see you made it through your first day. How... interesting.\n\nEverything from yesterday still applies, however today is only for students. Best of luck.  - Martha",
+      "rules": [
+        "All entrants must have consistent documentation.",
+        "All entrants must be Cornell students.",
+        "All vaccination statuses are allowed."
+      ],
+      "tags": {
+        "age": "all",
+        "role": "student",
+        "vax": "all",
+        "gender": "all"
+      },
+      "end_story": "Finishing up your second day, let's see how you did."
+    },
+    {
+      "begin_story": "Good work yesterday. You're really getting a hang of this! The last event was so popular among the students that many faculty members threatened to quit if I didn't let them into this one. So, today we're letting in only Cornell students and faculty. Toodles! - Martha",
+      "rules": [
+        "All entrants must have consistent documentation.",
+        "All entrants must be Cornell students or faculty.",
+        "All vaccination statuses are permitted."
+      ],
+      "tags": {
+        "age": "all",
+        "role": "cornell",
+        "vax": "all",
+        "gender": "all"
+      },
+      "end_story": "Nice work, let's see how you did.."
+    },
+    {
+      "begin_story": "Ok - it seems the Ithaca community is starting to get annoyed they're not being invited to these things. Many of them have cited a 'very attractive ticket collector'... whatever that means. I wouldn't read into it, I think you're pretty average.\n\nAnyway, today you can let in anyone, inside Cornell or out. However, campus is approaching alert level yellow, so we're requiring everyone to be vaccinated at least twice. See ya! - Martha",
+      "rules": [
+        "All entrants must have consistent documentation.",
+        "All entrants must be vaccinated at least twice."
+      ],
+      "tags": {
+        "age": "all",
+        "role": "all",
+        "vax": "2x+",
+        "gender": "all"
+      },
+      "end_story": "Stunning! I'm very impressed. Maybe you can buy something nice with the money you earned today! - Martha"
+    },
+    {
+      "begin_story": "Your parents must be so proud of you... did you always want to be a ticket collector? You're really good at this. By the way, we're celebrating gender diversity on campus over the next few days. Today's shindig is only for gender non-conforming students and faculty. No one else! Oh, and vaccination rules stay the same. Adios. - Martha  ",
+      "rules": [
+        "All entrants must have consistent documentation.",
+        "All entrants must be vaccinated at least twice.",
+        "All entrants must be Cornell students or faculty.",
+        "All entrants must be gender non-conforming."
+      ],
+      "tags": {
+        "age": "all",
+        "role": "cornell",
+        "vax": "2x+",
+        "gender": "other"
+      },
+      "end_story": "Ah, another great win for Cornell University. See you tomorrow, I hope! - Martha"
+    },
+    {
+      "begin_story": "Another day, another amazing event that I planned. Just to remind you what we said yesterday: we're celebrating gender diversity at Cornell. Today's event is only for women. Ciao! - Martha",
+      "rules": [
+        "All entrants must have consistent documentation.",
+        "All entrants must be vaccinated at least twice.",
+        "All entrants must be Cornell students or faculty.",
+        "All entrants must be female."
+      ],
+      "tags": {
+        "age": "all",
+        "role": "cornell",
+        "vax": "2x+",
+        "gender": "female"
+      },
+      "end_story": "The turnout was great today! Were you able to keep up? Let's see.. - Martha"
+    },
+    {
+      "begin_story": "Hello hello! I'm back again to instruct you on what to do today. For the last day of gender diversity week, we're having an event only for men. We're going to open this one up to the larger Ithaca community as well.\n\nBy the way, I heard a rumor that you have dogs? It would be a shame if something were to happen to them... - Martha",
+      "rules": [
+        "All entrants must have consistent documentation.",
+        "All entrants must be vaccinated at least twice.",
+        "All entrants must male."
+      ],
+      "tags": {
+        "age": "all",
+        "role": "all",
+        "vax": "2x+",
+        "gender": "male"
+      },
+      "end_story": ""
+    },
+    {
+      "begin_story": "Good morning! The board of trustees FINALLY let me have an open bar at one of my events. Yippee!! That means everyone needs to be over 21 today and, of course, vaccinated since we still have pesky COVID on campus. If you'll excuse me, I have to go inspect the bar. - Martha",
+      "rules": [
+        "All entrants must have consistent documentation.",
+        "All entrants must be vaccinated at least twice.",
+        "All entrants must be over 21."
+      ],
+      "tags": {
+        "age": "over 21",
+        "role": "all",
+        "vax": "2x+",
+        "gender": "all"
+      },
+      "end_story": "I feel refreshed, I'll be doing this one again! Will you? - Martha"
+    },
+    {
+      "begin_story": "Here's the sitch: the board got mad at me because no one under 21 could attend yesterday's event. They told me I have to make it right. So, today's event is super boring and for people under 21 ONLY. Also, I've been told that COVID is picking up on campus. I don't want this to screw up my future events! So, we're requiring everyone to be vaccinated and boosted today. Sayonara! - Martha",
+      "rules": [
+        "All entrants must have consistent documentation.",
+        "All entrants must be vaccinated three times.",
+        "All entrants must be under 21."
+      ],
+      "tags": {
+        "age": "under 21",
+        "role": "all",
+        "vax": "3x",
+        "gender": "all"
+      },
+      "end_story": "You're getting very good at this. Are you sure you don't want to take some time off? Slow down maybe? Just saying... - Martha"
+    },
+    {
+      "begin_story": "Today's your last day... I can't believe it. You were supposed to fail! I hosted these events just to make sure you couldn't follow the rules, but you did! No one has ever foiled me before, and I'm not going to let you be the first!\n\nToday, everyone meeting the following requirements with valid documentation is allowed in. They must be at least twice vaccinated, over 21 years of age, non-male, and NOT a Cornell student or faculty member. Let's see how you fare with that! - Martha",
+      "rules": [
+        "All entrants must have consistent documentation.",
+        "All entrants must be non-Cornell individuals.",
+        "All entrants must be female/other gender.",
+        "All entrants must be over 21.",
+        "All entrants must be vaccinated and boosted."
+      ],
+      "tags": {
+        "age": "over 21",
+        "role": "other",
+        "vax": "3x",
+        "gender": "female/other"
+      },
+      "end_story": "If you suceed, I'll eat my hat. Let's move to the tally. - Martha"
+    }
+  ]
+}

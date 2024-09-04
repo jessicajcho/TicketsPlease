@@ -1,0 +1,82 @@
+{
+  "format": [
+    [
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "  __________________________________________  "
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "||     COVID-19 Vaccination Record Card     ||"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "||                                          ||"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 9,
+        "print_val": "|| First Name: "
+      },
+      {
+        "num_chars_to_concat": 7,
+        "print_val": " Last Name: "
+      },
+      {
+        "num_chars_to_concat": 0,
+        "print_val": " ||"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 12,
+        "print_val": "|| DOB: "
+      },
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "                        ||"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 12,
+        "print_val": "|| 1st Dose Date: "
+      },
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "              ||"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 12,
+        "print_val": "|| 2nd Dose Date: "
+      },
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "              ||"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 12,
+        "print_val": "|| Booster Dose Date: "
+      },
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "          ||"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "||__________________________________________||"
+      }
+    ]
+  ]
+}

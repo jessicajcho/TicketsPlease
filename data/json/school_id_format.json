@@ -1,0 +1,82 @@
+{
+  "format": [
+    [
+      {
+        "num_chars_to_concat": 0,
+        "print_val": " ____________________________________________ "
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "|              Cornell ID                    |"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "|                                            |"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 10,
+        "print_val": "| First Name: "
+      },
+      {
+        "num_chars_to_concat": 8,
+        "print_val": " Last Name: "
+      },
+      {
+        "num_chars_to_concat": 0,
+        "print_val": " |"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 12,
+        "print_val": "| NetID: "
+      },
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "                        |"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 12,
+        "print_val": "| Cornell ID Number: "
+      },
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "            |"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 12,
+        "print_val": "| Cornell Occupation: "
+      },
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "           |"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 12,
+        "print_val": "| Expiration Date: "
+      },
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "              |"
+      }
+    ],
+    [
+      {
+        "num_chars_to_concat": 0,
+        "print_val": "|____________________________________________|"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "collection": {
+    "type": "array",
+    "items": {
+      "location": {
+        "type": "string"
+      },
+      "location description": {
+        "type": "string"
+      },
+      "required": [
+        "location",
+        "location description"
+      ]
+    }
+  },
+  "required": [
+    "collection"
+  ]
+}

@@ -1,0 +1,37 @@
+Example of a driver license:
+ ____________________________________________ 
+☷           Driver’s License                ☷
+☷                                           ☷
+☷ First Name:           Last Name:          ☷
+☷ DOB:                  Gender:             ☷
+☷ ID Number:                                ☷
+☷ Eye Color:                                ☷
+☷ Hair Color:                               ☷
+☷ Expiration Date:                          ☷
+☷___________________________________________☷
+
+Example of student id: 
+
+ ____________________________________________ 
+|              Cornell ID                    |
+|                                            |
+| First Name:            Last Name:          |
+| NetID:                                     |
+| Cornell ID Number:                         |
+| Cornell Occupation:                        |
+| Expiration Date:                           |
+|____________________________________________|
+
+
+Example of vaccine card:
+
+  __________________________________________  
+||     COVID-19 Vaccination Record Card     ||
+||                                          ||
+|| First Name:           Last Name:         ||
+|| DOB:                                     ||
+|| 1st Dose Date:                           ||
+|| 2nd Dose Date:                           ||
+|| Booster Dose Date:                       ||
+||__________________________________________||
+

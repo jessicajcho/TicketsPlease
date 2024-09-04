@@ -1,0 +1,24 @@
+{
+  "collection": [
+    {
+      "location": "Lynah Rink",
+      "location description": "You are in the ticket booth at the entrance of Lynah Rink. Today is an important day--the Cornell men's ice hockey team is facing off Colgate in the quarterfinals of the championship. The stadium is expected to be jam-packed today. Sounds of people chattering loudly echo throughout the rink."
+    },
+    {
+      "location": "Schoelkopf Field",
+      "location description": "You are in charge of admitting students and professors into the Schoellkopf field for the annual Homecoming game. This year, the Big Red football team is facing Yale."
+    },
+    {
+      "location": "Ho Plaza",
+      "location description": "Today is Slope Day! You are at the fenced entrance, You are in charge of admitting people into Ho Plaza, where Slope Fest is being held. This year, Amine is performing along with several opening performances. The line of people anxiously waiting to enter the plaza snakes all the way around the corner of the street. You hear music blaring on the loudspeakers."
+    },
+    {
+      "location": "Duffield Hall",
+      "location description": "Today is a very special day! Someone on Reddit announced that they are proposing in Duffield Hall in the afternoon today. Due to the large scale of this proposal, the administration decides to limit the number of people entering Duffield Hall. Everyone is eager to see the event unfold."
+    },
+    {
+      "location": "Phillips Hall",
+      "location description": "Rumor has it that Bill Nye has come to campus today! Knowledge has spread across campus rapidly and now, everyone is trying to enter Phillips Hall, where Bill Nye is holding a lecture open to the public."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title_help": "\nTickets, Please: Alert Level Red!\n\nInstructions: Begin playing the game through 'play' or exit the game using 'quit'.\nYou are a ticket master working to let people into an event. Every day, you will \nprovided with a certain number of people's documents, such as driver's lisense,\nCOVID vaccination card, or student ID. Based on certain provided guidelines, \nyou must choose to 'accept' or 'reject' each person into the event. Correct acceptances and \nrejections will reward you with money and incorrect acceptances and rejections will penalize you \nAt the end of each day, there will be fees you will have to pay such as rent, utility, etc. \nYou will automatically consume one food and one water per day.\nYour dogs will each consume one dog food and one water per day.\nIf you or a dog goes one day without one of these, they will die.\nThere could also be special events that trigger random conditions - so be alert \n\nWinning: make it to the last day without going bankrupt!",
+  "bad_command": "\nI'm sorry, but that isn't an accepted command. Type 'accept' to let the current person through, 'reject' to send them away, 'inventory' to view your inventory, 'money' to view your balance, or 'help' to receive help.",
+  "game_help": "\nBased on the guidelines provided under the 'rules' command and the person's documents, choose whether to accept or reject the person! Type 'accept' to let the current person through or 'reject' to send them away.",
+  "shop_items": "\nThe items available for purchase at the shop are:\n\tWater - $2\n\tFood - $2\n\tDog Food - $1\n\tBang Energy Drink - $5\n\tElectric Utility - $5",
+  "tax_collect": "The tax collector comes and takes the $10 that you owe the government today.\nYou are left with $",
+  "both_dogs": "Your dogs are very happy to see you!\nOne of your dogs jumps up and shakes your hand while the other looks contently into your eyes.\n",
+  "dog1": "Your oldest dog stays strong in the absence of his pal.\nHe only wishes that you had managed to earn enough money to buy food for both him and his brother.\nHis usual greeting of shaking your hand is replaced by a solemn look out the window.\n",
+  "dog2": "Your youngest dog still looks contently into your eyes when you come home ...\nbut when you look closer you realize his contentment serves only to mask the pain.\nThe pain of the absence of his older brother...\n",
+  "no_dog": "You close the door behind you and stare for a second.\n\"They're not coming back\" you mutter to yourself.\nYou miss the handshakes, smiles, and friendly looks as you pass by the food and water bowls that are still full.\n",
+  "user_prompt": "Type 'accept' to let the current person through, 'reject' to send them away, 'rules' to view the requirements, or 'help' to receive help.\n",
+  "no_dogs_food": "Your dogs look up at you longing for food... which you can't afford.\n",
+  "no_dog_food": "Your dog looks up at you longing for food... which you can't afford.\n",
+  "fail_tax_collect": "\n\n\nThe tax collector came to collect the $10 you owe the government for rent, but you didn't have the money.\n",
+  "money_explain": "\nYou can buy an item using the command \"buy [item name]\".\nContinue the game by entering \"continue\". Check your inventory \nby entering \"inventory\" or your current bank balance by entering \n\"money\"",
+  "buy_help": "\nYou can buy an item using the command \"buy [item name]\".\nContinue the game by entering \"continue\".",
+  "kicked_out": "Cornell kicked you out.\nGood luck next time XD\n\n\n",
+  "spec_1": "A special event occured! Martha felt generous and gave you some money for being such an awesome 3110 student! ",
+  "spec_2": "A special event occured! Cornell's weather led to a storm and some of your money was soaked and is now unusable! ",
+  "kicked_out_no_money": "\n\n\nYou ran out of money and Cornell kicked you out.\nGood luck next time XD\n",
+  "start_game": "Type 'play' to replay the game, 'quit' to leave the game, or 'help' to receive help.\n"
+}
